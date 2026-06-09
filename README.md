@@ -96,7 +96,7 @@ Power BI dashboards offer insights into:
 - **Sector-level Liquidity Contribution**
 - **Daily Top Market Movers**
 
-![Market Liquidity Report](resources/securities_market_report1.jpg)
+![Market Liquidity Report](resources/Report1.jpg)
 
 ---
 
